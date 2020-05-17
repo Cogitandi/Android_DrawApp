@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ThirdApp</string>
+    <string-array name="paint_styles">
+        <item>Bez wypełnienia</item>
+        <item>Z wypełnieniem</item>
+        <item>Okrąg</item>
+        <item>Koło</item>
+    </string-array>
+</resources>
